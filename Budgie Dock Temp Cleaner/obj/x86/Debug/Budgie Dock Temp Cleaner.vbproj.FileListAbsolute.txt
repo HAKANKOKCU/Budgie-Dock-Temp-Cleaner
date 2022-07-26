@@ -1,0 +1,18 @@
+C:\Users\ASUS PC\AppData\Local\Temporary Projects\Budgie Dock Temp Cleaner\bin\Debug\Budgie Dock Temp Cleaner.exe
+C:\Users\ASUS PC\AppData\Local\Temporary Projects\Budgie Dock Temp Cleaner\bin\Debug\Budgie Dock Temp Cleaner.pdb
+C:\Users\ASUS PC\AppData\Local\Temporary Projects\Budgie Dock Temp Cleaner\bin\Debug\Budgie Dock Temp Cleaner.xml
+C:\Users\ASUS PC\AppData\Local\Temporary Projects\Budgie Dock Temp Cleaner\obj\x86\Debug\Budgie_Dock_Temp_Cleaner.Form1.resources
+C:\Users\ASUS PC\AppData\Local\Temporary Projects\Budgie Dock Temp Cleaner\obj\x86\Debug\Budgie_Dock_Temp_Cleaner.Resources.resources
+C:\Users\ASUS PC\AppData\Local\Temporary Projects\Budgie Dock Temp Cleaner\obj\x86\Debug\Budgie Dock Temp Cleaner.vbproj.GenerateResource.Cache
+C:\Users\ASUS PC\AppData\Local\Temporary Projects\Budgie Dock Temp Cleaner\obj\x86\Debug\Budgie Dock Temp Cleaner.exe
+C:\Users\ASUS PC\AppData\Local\Temporary Projects\Budgie Dock Temp Cleaner\obj\x86\Debug\Budgie Dock Temp Cleaner.xml
+C:\Users\ASUS PC\AppData\Local\Temporary Projects\Budgie Dock Temp Cleaner\obj\x86\Debug\Budgie Dock Temp Cleaner.pdb
+C:\Users\ASUS PC\documents\visual studio 2010\Projects\Budgie Dock Temp Cleaner\Budgie Dock Temp Cleaner\obj\x86\Debug\Budgie Dock Temp Cleaner.xml
+C:\Users\ASUS PC\documents\visual studio 2010\Projects\Budgie Dock Temp Cleaner\Budgie Dock Temp Cleaner\obj\x86\Debug\Budgie Dock Temp Cleaner.pdb
+C:\Users\ASUS PC\documents\visual studio 2010\Projects\Budgie Dock Temp Cleaner\Budgie Dock Temp Cleaner\bin\Debug\Budgie Dock Temp Cleaner.exe
+C:\Users\ASUS PC\documents\visual studio 2010\Projects\Budgie Dock Temp Cleaner\Budgie Dock Temp Cleaner\bin\Debug\Budgie Dock Temp Cleaner.pdb
+C:\Users\ASUS PC\documents\visual studio 2010\Projects\Budgie Dock Temp Cleaner\Budgie Dock Temp Cleaner\bin\Debug\Budgie Dock Temp Cleaner.xml
+C:\Users\ASUS PC\documents\visual studio 2010\Projects\Budgie Dock Temp Cleaner\Budgie Dock Temp Cleaner\obj\x86\Debug\Budgie_Dock_Temp_Cleaner.Form1.resources
+C:\Users\ASUS PC\documents\visual studio 2010\Projects\Budgie Dock Temp Cleaner\Budgie Dock Temp Cleaner\obj\x86\Debug\Budgie_Dock_Temp_Cleaner.Resources.resources
+C:\Users\ASUS PC\documents\visual studio 2010\Projects\Budgie Dock Temp Cleaner\Budgie Dock Temp Cleaner\obj\x86\Debug\Budgie Dock Temp Cleaner.vbproj.GenerateResource.Cache
+C:\Users\ASUS PC\documents\visual studio 2010\Projects\Budgie Dock Temp Cleaner\Budgie Dock Temp Cleaner\obj\x86\Debug\Budgie Dock Temp Cleaner.exe
